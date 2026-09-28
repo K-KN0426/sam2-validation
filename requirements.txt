@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision
+transformers>=4.45
+pillow
+numpy
+gradio
+opencv-python-headless
